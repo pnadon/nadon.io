@@ -1,0 +1,24 @@
+baseurl = "/"
+languageCode = "en-us"
+title = "Philippe Nadon"
+theme = "hugo-classic"
+googleAnalytics = ""
+ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
+enableEmoji = true
+footnotereturnlinkcontents = "↩"
+
+[permalinks]
+    post = "/post/:year/:month/:day/:slug/"
+
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+[[menu.feed]]
+    name = "Subscribe"
+    url = "/index.xml"
+
+[params]
+    description = ""
+    footer = "[Github](https://github.com/pnadon) | [Twitter](https://twitter.com/PhilNadon)"
+    custom_css = ["css/theme-override.css"]
