@@ -8,9 +8,9 @@ This is a simple site for redirecting visitors to my other websites, and for mis
 
 ---
 ## My Websites
-- [Design and Art](https://dsgn.nadon.io)
-- [Academics](https://acad.nadon.io)
-- [Personal](https://nadon.io) (this one)
+- [Academics & Career](https://acad.nadon.io)
+- [Design & Art](https://dsgn.nadon.io)
+- [Personal & Misc.](https://nadon.io) (this one)
 
 ---
 ## Affiliated
