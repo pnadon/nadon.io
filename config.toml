@@ -20,5 +20,5 @@ footnotereturnlinkcontents = "↩"
 
 [params]
     description = ""
-    footer = "[Github](https://github.com/pnadon) | [Twitter](https://twitter.com/PhilNadon)"
+    footer = "[Github](https://github.com/pnadon) | [Twitter](https://twitter.com/PhilNadon) | [Email](mailto:phil@nadon.io)"
     custom_css = ["css/theme-override.css"]
