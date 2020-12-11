@@ -10,19 +10,19 @@ This is a simple site for redirecting visitors to my other websites, and for mis
 
 ## My Websites
 
-* [Academics & Career](https://acad.nadon.io)
-* [Design & Art](https://dsgn.nadon.io)
+* [Academics & Coding](https://acad.nadon.io)
+* [Doodles and 3D Modeling](https://dsgn.nadon.io)
 * [Personal & Misc.](https://nadon.io) (this one)
 
 ***
 
 ## Affiliated
 
-* [The ETA Tool](https://www.etatool.com)
+* [The ETA Tool for Calgary](https://www.etatool.com)
+* [The ETA Tool for Edmonton](https://www.edmonton.ca/transportation/traffic_safety/residential-speed-limits-eta-tool.aspx)
 * [Cryptography Challenge](https://ualberta-crypto.netlify.com)
 * [Club](https://inside-club.nadon.io)
 
 ### Misc.
 
-* [User Manual for the Bookstore App](https://bookstore-manual.now.sh)
-* [List of Software Used](https://tools-used.now.sh/)
+* [List of Software Used (infrequently updated)](https://tools-used.now.sh/)
