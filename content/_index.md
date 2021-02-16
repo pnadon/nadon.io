@@ -8,11 +8,12 @@ This is a simple site for redirecting visitors to my other websites, and for mis
 
 ***
 
-## My Websites
+## Main Links
 
-* [Academics & Coding](https://acad.nadon.io)
+* [Main](https://nadon.io) (this one)
+* [LinkedIn](https://www.linkedin.com/in/pnadon/)
+* [Pinboard Bookmarks (books, articles, projects...)](https://pinboard.in/u:pnadon)
 * [Doodles and 3D Modeling](https://dsgn.nadon.io)
-* [Personal & Misc.](https://nadon.io) (this one)
 
 ***
 
@@ -22,7 +23,3 @@ This is a simple site for redirecting visitors to my other websites, and for mis
 * [The ETA Tool for Edmonton](https://www.edmonton.ca/transportation/traffic_safety/residential-speed-limits-eta-tool.aspx)
 * [Cryptography Challenge](https://ualberta-crypto.netlify.com)
 * [Club](https://inside-club.nadon.io)
-
-### Misc.
-
-* [List of Software Used (infrequently updated)](https://tools-used.now.sh/)
