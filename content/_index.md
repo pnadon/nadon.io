@@ -12,7 +12,7 @@ This is a simple site for redirecting visitors to my other websites, and for mis
 
 * [Main](https://nadon.io) (this one)
 * [LinkedIn](https://www.linkedin.com/in/pnadon/)
-* [Pinboard (books, articles, projects...)](https://pinboard.in/u:pnadon)
+* [Pinboard](https://pinboard.in/u:pnadon) (books, articles, projects...)
 * [Doodles and 3D Modeling](https://dsgn.nadon.io)
 
 ***
