@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "Phil Nadon"
+title = ""
 theme = "hugo-classic"
 googleAnalytics = ""
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
@@ -9,5 +9,5 @@ footnotereturnlinkcontents = "↩"
 
 [params]
     description = ""
-    footer = "[Github](https://github.com/pnadon) | [Email](mailto:tidy.key2504@fastmail.com)"
+    footer = ""
     custom_css = ["css/theme-override.css"]
